@@ -10,12 +10,12 @@
   </p>
 </p>
 
-### ***О себе:***
+### ***About me:***
 * I specialize in frontend development, showcasing proficiency in crafting and sustaining dynamic websites and web applications through the utilization of contemporary web technologies. My expertise extends to constructing multi-page website architectures, meticulously designing user interfaces that seamlessly blend functionality with aesthetic appeal. You can peruse my Github page, where I've curated a collection of code snippets and projects exemplifying my prowess in frontend development.
  * I appreciate any feedback you may have!
 
 
-### 🔨 ***Используемые языки и технологии:***
+### 🔨 ***Languages and technologies used:***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,7 +25,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
-### ***Контакты:***
-### 📧 Почта: drozdovvladislav645@gmail.com
+### ***Contact:***
+### 📧 Email: drozdovvladislav645@gmail.com
 ### 🌐 Telegram: [@VladJMv](https://t.me/VladJMv)
 
